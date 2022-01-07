@@ -13,7 +13,7 @@ Tech Stack:
 5. ``` $ npm start ``` # start server
 
 ## Routes and Resources
-
+```
    GET     /quizzes                ->  indexController()
    GET     /quizzes/:id/play       ->  playController()
    GET     /quizzes/:id/check      ->  checkController()
